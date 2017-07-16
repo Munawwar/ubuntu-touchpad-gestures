@@ -1,4 +1,4 @@
-## Mac-like gestures on Ubuntu
+## Mac-like touchpad gestures on Ubuntu
 
 ### Install 
 
