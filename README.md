@@ -1,5 +1,4 @@
-# ubuntu-gestures
-Mac-like gestures on Ubuntu
+## Mac-like gestures on Ubuntu
 
 ### Install 
 
