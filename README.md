@@ -1,5 +1,12 @@
 ## Mac-like touchpad gestures on Ubuntu
 
+### Gestures
+
+- 3 or 4 finger swipe up    - Show all windows in workspace
+- 3 or 4 finger swipe down  - Show all windows of current application
+- 3 finger swipe left/right - Switch to next window of application
+- 4 finger swipe right/left - Switch to next application
+
 ### Install 
 
 sudo apt install touchegg xdotool compizconfig-settings-manager
@@ -28,13 +35,6 @@ and add switch.sh to /home/youruser/ directory.
 Replace `youruser` with your real ubuntu user in touchegg.conf file.
 
 Finally add `touchegg` command to startup (using Startup application)
-
-### Gestures
-
-- 3 or 4 finger swipe up    - Show all windows in workspace
-- 3 or 4 finger swipe down  - Show all windows of current application
-- 3 finger swipe left/right - Switch to next window of application
-- 4 finger swipe right/left - Switch to next application
 
 ### References
 
